@@ -3,3 +3,6 @@ Aigen is a command line tool to communicate with ChatGPT. I was using ChatGPT pl
 
 ## Status
 It is on development right now.
+
+### TODO:
+- [ ] Change the model to gpt-3.5-turbo
